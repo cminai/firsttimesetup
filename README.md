@@ -31,7 +31,7 @@ Chromeを利用している場合は `chrome://settings` 、Firefoxを利用し�
 - [Vim(kaoriya)](https://kaoriya.net/software/vim/)
   - vimは、LinuxOSに標準搭載されている「vi」の拡張版。CUIですべて完結するため、最初に操作方法を学習する必要がある。業務上、実際にサーバ上でvim/viを利用する場面があるかもしれないので、まずはローカルに落として試してみるとよい。
 
-## tools
+## CLI tools
 - ssh client
   - [Putty & pageant](https://chiark.greenend.org.uk/~sgtatham/putty/latest.html)
   - [Tera Term](https://ja.osdn.net/projects/ttssh2/)
@@ -44,3 +44,14 @@ Chromeを利用している場合は `chrome://settings` 、Firefoxを利用し�
   - [Cygwin](https://cygwin.com)
 - 参考サイト
   - [Windowsで使えるターミナルとシェルのまとめ](https://qiita.com/Ted-HM/items/9a60f6fcf74bbd79a904)
+
+## etc tools
+- archiver
+  - [Lhaplus](http://www7a.biglobe.ne.jp/~schezo/)
+  - [7-zip](https://sevenzip.osdn.jp)
+    - Lhaplusでgzなどを解凍しようとしたときにエラーが起きる場合があり、ソフトウェアに起因するようなので7-zip等の別ソフトで解凍するとよい
+- diff tool
+  - [WinMerge](http://geocities.co.jp/SiliconValley-SanJose/8165/winmerge.html)
+- testing tool
+  - [Fiddler](https://telerik.com/fiddler) : network capture
+  - [Postman](https://getpostman.com) : for rest api
