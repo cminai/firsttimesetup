@@ -32,6 +32,7 @@ Chromeを利用している場合は `chrome://settings` 、Firefoxを利用し�
   - vimは、LinuxOSに標準搭載されている「vi」の拡張版。CUIですべて完結するため、最初に操作方法を学習する必要がある。業務上、実際にサーバ上でvim/viを利用する場面があるかもしれないので、まずはローカルに落として試してみるとよい。
 
 ## CLI tools
+- コマンドラインシェルについては[コマンドマニュアル](/commands/README.md)を参照
 - ssh client
   - [Putty & pageant](https://chiark.greenend.org.uk/~sgtatham/putty/latest.html)
   - [Tera Term](https://ja.osdn.net/projects/ttssh2/)
